@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-color:white;
+    font-size: 10px;
+}
+
+.jumbotron {
+    background-image: url('http://www.mobiona.com/images/slide/bg4.jpg');
+    color: white
+    
+}
